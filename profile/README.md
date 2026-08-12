@@ -1,57 +1,85 @@
 # Zwernemann Medienentwicklung
 
-## Software solutions for e commerce, business processes and industrial IT
+## Software for e commerce, business processes and industrial IT
 
-Zwernemann Medienentwicklung develops individual software solutions for companies with complex business processes.
+Zwernemann Medienentwicklung develops software solutions for companies with complex business processes.
 
-Our work combines software development, system integration and many years of experience in e commerce and industrial IT. The focus is on solutions that integrate naturally into existing systems and simplify processes rather than adding unnecessary complexity.
+For more than 20 years, we have been developing applications, e commerce solutions and integrations that connect people, processes and systems. Our work ranges from Magento and Shopware extensions to industrial IT, reporting, document generation and individual business applications.
 
-## Our Areas of Work
+We focus on practical solutions that fit into existing environments and solve real business problems.
 
-### E Commerce
+## E Commerce
 
-Development and integration of solutions for Magento 2 and Shopware, including individual extensions, interfaces and business processes.
+We develop solutions for modern e commerce platforms, with a particular focus on Magento 2.
 
-### AI and Conversational Commerce
+Our open source Magento projects address specific requirements that arise in real online shops, from legal requirements to new ways of interacting with products and customers.
 
-Development of AI based solutions that connect natural language interaction with real business processes.
+### Zwernemann_Chat
 
-One example is our open source Magento 2 AI assistant, which combines semantic product search, customer data and Magento commerce functions.
+An open source AI assistant for Magento 2.
 
-[Zwernemann_Chat on GitHub](https://github.com/Zwernemann/magento2-chat)
+Zwernemann_Chat combines conversational interaction with semantic product search, customer context and live Magento data. Depending on the configuration, it can perform actions such as adding products to the cart, reordering products, managing the wishlist and completing orders.
 
-### Industrial IT
+The project explores how conversational commerce can simplify the traditional search, product, cart and checkout process, particularly for repeat purchases and B2B commerce.
 
-Software for configuration, catalogues, reporting, documentation and other business processes in industrial environments.
+[View Zwernemann_Chat](https://github.com/Zwernemann/magento2-chat)
 
-### Software Integration
+### Withdrawal Button for Magento 2
 
-Connecting existing systems, applications and data sources to create reliable end to end processes.
+An open source Magento 2 extension for implementing the digital withdrawal process required by the new European consumer protection rules.
+
+Customers can submit full or partial withdrawals directly from their account, while shop operators can manage requests through a dedicated administration interface.
+
+[View Withdrawal Button for Magento 2](https://github.com/Zwernemann/magento2-withdrawl)
+
+## Industrial IT and Business Software
+
+Our work extends beyond e commerce.
+
+We develop software for industrial environments and business processes, including configuration and catalogue systems, reporting solutions, document generation and applications that connect different systems and data sources.
+
+A recurring theme in these projects is the integration of complex business rules into software that remains practical and maintainable for everyday use.
+
+## AI and Conversational Commerce
+
+Artificial intelligence is becoming an increasingly important part of our current development work.
+
+We are particularly interested in applications where AI is not simply used to generate text, but is connected to real business data and processes.
+
+This includes semantic search, retrieval augmented generation, large language models and software agents that can interact with existing business systems.
+
+Zwernemann_Chat is our first open source project in this area.
 
 ## Open Source
 
-We develop and maintain open source software where it can provide a useful solution for a broader community.
+We believe that useful software should be shared where possible.
 
-Our current Magento 2 projects include:
+Our open source projects are developed from real world requirements and are intended to be useful beyond a single customer project.
 
-[Zwernemann_Chat](https://github.com/Zwernemann/magento2-chat)
+We welcome feedback, bug reports, feature requests and contributions through GitHub.
 
-[Withdrawal Button for Magento 2](https://github.com/Zwernemann/magento2-withdrawl)
+## About Zwernemann Medienentwicklung
 
-## About
+Zwernemann Medienentwicklung is based in Germany and is operated by software architect and developer Martin Zwernemann.
 
-Zwernemann Medienentwicklung is based in Germany and has been developing software and digital solutions for business customers for more than 20 years.
+With more than 20 years of experience in software development, our work combines software architecture, application development, e commerce, industrial IT and system integration.
 
-Our experience covers software architecture, application development, e commerce, reporting, document generation and system integration.
+For more information about our company and our services:
 
-## Our GitHub Projects
+[www.zwernemann.de](https://www.zwernemann.de)
 
-For technical details, source code and current open source projects, please visit the personal GitHub profile of Martin Zwernemann:
+## The Person Behind the Projects
+
+Technical development and our open source projects are led by Martin Zwernemann.
+
+For his personal projects, technical background and current work:
 
 [github.com/Zwernemann](https://github.com/Zwernemann)
 
-## Website
+## Contact
 
-More information about Zwernemann Medienentwicklung and our services:
+For questions about our open source projects, please use the corresponding GitHub repository, issue tracker or discussion area.
+
+For business enquiries and information about our services:
 
 [www.zwernemann.de](https://www.zwernemann.de)
